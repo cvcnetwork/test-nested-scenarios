@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "alwaysStrict": true,
+    "declaration": true,
+    "esModuleInterop": true,
+    "module": "commonjs",
+    "outDir": "./dist",
+    "strict": true,
+    "target": "ES2019"
+  },
+  "exclude": ["node_modules", "test"],
+  "include": ["src"]
+}
