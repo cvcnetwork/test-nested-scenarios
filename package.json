@@ -20,7 +20,14 @@
     "typescript": "^4.3.5"
   },
   "homepage": "https://github.com/cvcnetwork/test-nested-scenarios",
-  "keywords": ["jest", "nested", "scenarios", "test", "typescript", "testnestedscenarios"],
+  "keywords": [
+    "jest",
+    "nested",
+    "scenarios",
+    "test",
+    "typescript",
+    "testnestedscenarios"
+  ],
   "license": "Apache-2.0",
   "main": "dist/index.js",
   "name": "test-nested-scenarios",
@@ -33,5 +40,5 @@
     "test": "jest --config jestconfig.json"
   },
   "types": "dist/index.d.ts",
-  "version": "1.0.1"
+  "version": "1.0.2"
 }
